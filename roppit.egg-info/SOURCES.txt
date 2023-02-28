@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+Roppit/__init__.py
+roppit.egg-info/PKG-INFO
+roppit.egg-info/SOURCES.txt
+roppit.egg-info/dependency_links.txt
+roppit.egg-info/top_level.txt
